@@ -1,7 +1,7 @@
-var width = document.getElementById('vis')
-    .clientWidth;
-var height = document.getElementById('vis')
-    .clientHeight;
+var width = 600; //document.getElementById('vis')
+    //.clientWidth;
+var height = 400 //document.getElementById('vis')
+    //.clientHeight;
 
 var margin = {
     top: 10,
